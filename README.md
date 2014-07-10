@@ -21,5 +21,5 @@ window.onload = function(){
 Copy and past in new bookmark URL:
 
 ```javascript
-javascript:(function(script){script.setAttribute('src','https://github.com/newhope/live.js/master/live.js');var head=document.querySelector('head').appendChild(script);})(document.createElement('script'));
+javascript:(function(script){script.setAttribute('src','https://github.com/newhope/live.js/raw/master/live.js');var head=document.querySelector('head').appendChild(script);})(document.createElement('script'));
 ```
